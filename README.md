@@ -29,7 +29,6 @@
 <a href="https://instagram.com/ab._.bhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ab._.bhi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhi_saxena64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhi_saxena64" height="30" width="40" /></a>
 <a href="https://discord.gg/Popeye#8139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Popeye#8139" height="30" width="40" /></a>
-<a href="https://leetcode.com/Popeye-TheSailorMan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="Popeye#8139" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
