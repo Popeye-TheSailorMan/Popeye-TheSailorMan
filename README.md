@@ -17,7 +17,7 @@
 
 - 🌱 Currently learning **R Programming and Improving my computer vision skills**
 
-- 💬 Ask me about **Python, Neural networks, and Data Science**
+- 💬 Ask me about **Python, Machine Learning, and Data Science**
 
 - 📫 How to reach me **abhi.saxena64@gmail.com**
 
